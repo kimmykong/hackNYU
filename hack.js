@@ -1,5 +1,4 @@
 //json object returned by
-//filtered for payload
 //GET https://www.googleapis.com/gmail/v1/users/{user_id}/messages/{message_id}?fields=payload&key={YOUR_API_KEY}
 
 var fullMessage = {
